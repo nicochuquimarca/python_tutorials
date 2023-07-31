@@ -7,3 +7,7 @@ a                    # Call the variable
 name = "Nicolás Chuquimarca"
 print(name)
 
+# Now make a simple calculation
+b = 5*9
+c = a +b 
+c
